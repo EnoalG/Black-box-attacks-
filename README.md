@@ -27,14 +27,14 @@ Two scripts are provided to run the experiments on different datasets:
 1. **ImageNet**: Run the following command to execute the experiment on ImageNet:
 
 ```bash
-   python script_imagenet.py
-   ```
+python script_imagenet.py
+```
    This script generates adversarial examples for a pre-trained ImageNet classifier and saves the results in .npy format.
 
 2. **MNIST**: Run the following command for MNIST:
 ```bash
-   python script_imagenet.py
-   ```
+python script_imagenet.py
+```
    This script generates adversarial examples for the MNIST_gpu classifier and saves the results in .npy format.
 
 
